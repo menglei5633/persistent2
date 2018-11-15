@@ -1,0 +1,14 @@
+T
+100
+N
+10000
+m
+10000
+k
+7
+rsize
+2
+psize
+20
+dimission
+4
